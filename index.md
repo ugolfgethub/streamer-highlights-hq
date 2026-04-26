@@ -1,8 +1,9 @@
 # Streamer Highlights HQ
 
-Internal automation tool for the @stream_highlightshq creator accounts on TikTok and Instagram.
+Internal automation tool for the @stream_highlightshq creator accounts on
+TikTok and Instagram, operated by UGolf, LLC.
 
 - [Privacy Policy](./privacy)
 - [Terms of Service](./terms)
 
-Contact: krausesam30@gmail.com
+Contact: sam@ugolf.biz
